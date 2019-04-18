@@ -25,7 +25,7 @@ SECRET_KEY = 'by_8#p5r)8+%#nca!*3$cr5cybqz%4a1--_jz$7$xbcbr)b97h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'daraza.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1:800', 'daraza.pythonanywhere.com']
 
 
 # Application definition
